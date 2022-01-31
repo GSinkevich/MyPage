@@ -2,6 +2,8 @@
 @import "vendor/reset";
 @import "blocks/header.scss";
 
+
+
 html{
     font-size: 62.5%;
 }
@@ -16,6 +18,8 @@ body {
     
 }
 
+
 /* Blocks */
 @import "blocks/sidebar";
-@import "blocks/mains.scss"
+@import "blocks/mains.scss";
+@import "blocks/container.scss";

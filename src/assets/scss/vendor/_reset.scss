@@ -365,3 +365,9 @@ textarea {
     padding: 0.2em 0;
 }
 
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;   
+}
